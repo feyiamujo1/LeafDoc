@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LeafDoc</string>
+    <string name="appname">leafDoc</string>
+
+
+    //For Onboarding Screen One
+    <string name="topic_one">Disease Detection</string>
+    <string name="description_one">Don’t know what’s going on with your maize crops</string>
+
+
+    //For Onboarding Screen Two
+    <string name="topic_two">Identify Disease</string>
+    <string name="description_two">Upload a photo from your device to find out</string>
+
+
+    //For Onboarding Screen Three
+    <string name="topic_three">Learn More</string>
+    <string name="description_three">Get to know the features of these diseases</string>
+    <string name="detect">Detect</string>
+    <string name="welcome_note">Welcome to leafDoc your personal assistant for detecting maize leaf disease</string>
+    <string name="leafdoctor">LeafDoctor</string>
+    <string name="info">Select an image from your device</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="success_message">Image Uploaded Successfully</string>
+    <string name="detection_result"></string>
+
+</resources>
